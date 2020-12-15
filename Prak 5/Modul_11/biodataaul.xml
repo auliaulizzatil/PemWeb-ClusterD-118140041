@@ -1,0 +1,33 @@
+<?xml version="1.0" encode="utf-8"?>
+
+<biodata>
+    <nama>
+        <first-name>Aulia Ul Izzatil</first-name>
+        <last-name>Adilah</last-name>
+    </nama>
+
+    <saudara>
+        <nama>Tidak Ada</nama>
+    </saudara>
+
+    <orangtua>
+        <nama>Yunani</nama>
+    </orangtua>
+
+    <hobby>
+        <hobi>Nganalisis Cinta</hobi>
+        <hobi>Nganalisis Hidup</hobi>
+    </hobby>
+
+    <alamat>
+        <provinsi>Lampung</provinsi>
+        <kota>Bandar Lampung<kota>
+        <kecamatan>Kampung Baru</kecamatan>
+    </alamat>
+
+    <social-media>
+        <instagram>auliaulizzatil</instagram>
+        <github>auliaulizzatil</github>
+        <linkedin>auliaulizzatil</line>
+    </social-media>
+</biodata>

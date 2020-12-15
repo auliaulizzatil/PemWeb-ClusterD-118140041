@@ -1,0 +1,32 @@
+{
+    "biodata" : {
+       "nama" : {
+           "first-name" : "Aulia UL Izzatil",
+           "last-name" : "Adilah"
+       },
+      
+       "saudara" : {
+           "nama" : "Tidak Ada"
+       },
+
+       "orangtua" : {
+           "nama" : "Yunani"
+       },
+
+       "hobby" : {
+           "hobi" : ["Nganalisis Cinta", "Nganalisis Hidup"]
+       },
+
+       "alamat" : {
+           "Provinsi" : "Lampung",
+           "Kota" : "Bandar Lampung",
+           "Kecamatan" : "Kampung Baru"
+       },
+
+       "social-media" : {
+           "instagram" : "auliaulizzatil",
+           "github" : "auliaulizzatil",
+           "linkedin" : "auliaulizzatil"
+       }
+    }
+}
